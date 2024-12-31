@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 31
+      namespace 'com.example.flutter_power_file_preview' 
    // namespace 'com.example.flutter_power_file_preview'
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
