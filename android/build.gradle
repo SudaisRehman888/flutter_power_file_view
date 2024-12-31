@@ -1,4 +1,4 @@
-group 'com.example.flutter_power_file_preview'
+// group 'com.example.flutter_power_file_preview'
 version '1.0'
 
 buildscript {
